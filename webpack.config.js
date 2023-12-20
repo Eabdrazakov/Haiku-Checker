@@ -20,7 +20,7 @@ module.exports = {
         new ESLintPlugin(),
         new CleanWebpackPlugin(),
         new HtmlWebpackPlugin({
-            title: '',
+            title: 'Haiku Checker',
             template: './src/index.html',
             inject: 'body'
         })

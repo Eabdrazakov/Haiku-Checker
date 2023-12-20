@@ -1,4 +1,4 @@
-# Project name
+# Haiku Checker
 
 <h3>By Ermek Abdrazakov</h3>
 
